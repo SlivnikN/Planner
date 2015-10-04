@@ -1,0 +1,13 @@
+None,None,None,None,None,None,None
+None,ANA 2A,STOP,ANA 2A,None,None,None
+None,ANA 2A,STOP,ANA 2A,None,None,None
+FIZ 2,ANA 2A V,FIZ 2,ALG 2 V,PROG 1,None,None
+FIZ 2,ANA 2A V,FIZ 2,ALG 2 V,PROG 1,None,None
+ALG 2,ANA 2A V,None,STOP V,FIZ 2 V,None,None
+ALG 2,None,None,STOP V,FIZ 2 V,None,None
+None,None,None,None,PROG 1 V2,None,None
+None,None,None,None,PROG 1 V2,None,None
+None,None,None,None,None,None,None
+None,None,None,None,None,None,None
+None,None,None,None,None,None,None
+None,None,None,None,None,None,None
